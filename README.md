@@ -12,7 +12,7 @@
   **3-** It takes an analog signal from a potentiometer, and sends it through a UART-USB converter to the PC. The values in volts of the potentiometer can be displayed on your PC using 
   serial terminal software (such as Realterm, which is the one I use).
   
-  Below I put a link to a video so you can see how it works:
+  **Below I put a link to a video so you can see how it works:**
   
   https://www.youtube.com/shorts/trmJfeHAia4
   
@@ -60,6 +60,18 @@
 # **Steps to successfully run the program on your PC:**
 
 I am going to explain it for Windows assuming that in MacOS or Linux it will be similar:
+
+If you download the file to your PC, and then unzip it, **delete "-main"**.
+
+[![Descarga1.jpg](https://i.postimg.cc/4NCQkc79/Descarga1.jpg)](https://postimg.cc/NL4HR5xs)
+
+[![Descarga2.jpg](https://i.postimg.cc/rwMbT30x/Descarga2.jpg)](https://postimg.cc/6ybzLHhp)
+
+[![Descarga3.jpg](https://i.postimg.cc/mgmdsDGW/Descarga3.jpg)](https://postimg.cc/LJZkkmXx)
+
+[![Descarga4.jpg](https://i.postimg.cc/1R0rStp7/Descarga4.jpg)](https://postimg.cc/bdJtHqV1)
+
+Then follow the following steps
 
 **1-** Navigate your PC to the following path:
 
