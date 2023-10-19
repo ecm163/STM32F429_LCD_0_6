@@ -67,8 +67,6 @@ If you download the file to your PC, and then unzip it, **delete "-main"**.
 
 [![Descarga2.jpg](https://i.postimg.cc/rwMbT30x/Descarga2.jpg)](https://postimg.cc/6ybzLHhp)
 
-[![Descarga3.jpg](https://i.postimg.cc/mgmdsDGW/Descarga3.jpg)](https://postimg.cc/LJZkkmXx)
-
 [![Descarga4.jpg](https://i.postimg.cc/1R0rStp7/Descarga4.jpg)](https://postimg.cc/bdJtHqV1)
 
 Then follow the following steps
