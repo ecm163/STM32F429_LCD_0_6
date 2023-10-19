@@ -139,11 +139,11 @@ To do this, follow the following steps:
 
 C:/Users/Emilio/STM32Cube…
 
-**12-** If you want it to work, change “Emilio” to your username. For example, if your name is Julian, change “Emilio” to “Julian.” To do this, select each path and edit it as follows:
+**12-** If you want it to work, change “Emilio” to your username (**all paths with the word Emilio**). For example, if your name is Julian, change “Emilio” to “Julian.” To do this, select each path and edit it as follows:
  
 [![Imagen21.jpg](https://i.postimg.cc/SR4W60Bd/Imagen21.jpg)](https://postimg.cc/R6P6mYVJ)
 
-**13-** Change “Emilio” to your username (for example, “Julian”). 
+**13-** Change “Emilio” to your username (for example, “Julian”) **all paths with the word Emilio**. 
 
 [![Imagen22.jpg](https://i.postimg.cc/PxNtSKDw/Imagen22.jpg)](https://postimg.cc/bDccJx3y)
 
@@ -151,5 +151,5 @@ C:/Users/Emilio/STM32Cube…
 
 [![Imagen24.jpg](https://i.postimg.cc/hPGGCLFg/Imagen24.jpg)](https://postimg.cc/Btdsb1Qw)
 
-**14-** Finally, click on “OK”, and then click on “Apply and Close”.
+**14-** Finally, click on “OK”, and then click on “Apply and Close”. Do it for **all paths with the word Emilio**.
 
